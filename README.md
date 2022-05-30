@@ -1,6 +1,6 @@
 # Sobre mim
-- 👋 Olá,meu nome é @imnotfreitas
-- :+1: Meu email de contato é freitas.escola13@gmail.com
+- 👋 Olá,meu nome é **@imnotfreitas**
+- :+1: Meu email de contato é [email](freitas.escola13@gmail.com)
 - 👀 Eu estou interessado em aprender a programar  novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
